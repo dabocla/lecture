@@ -2,7 +2,7 @@
 
 Images saved for the slide deck.
 
-## `nog-pick-pulse-dashboard.webp`
+## `nog-pick-pulse-dashboard.png`
 **What it is:** the "NOG Distribution Ops — Pick Pulse" dashboard, a work in progress built for Hy-Vee distribution center operations. It shows live warehouse (WMS) workload by pick area (Floor, Tower, PIR, Tobacco, Bulk, Seasonal): cases remaining, cases packed per hour, and hours to clear.
 
 **Where to use it:**
