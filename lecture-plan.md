@@ -34,7 +34,7 @@ Audience: Psychology, Nursing, CS, Biology, Agriculture students
   - Point: tech skills are valuable in every industry, including healthcare, farms, labs, clinics and retail. Every company is becoming a tech company.
 - If there are survey results, show 1–2 numbers here ("X% of you said you're worried about your job. Let's talk about that.").
 
-## 2. Four Myths (9:45, 10 min)
+## 2. Four Myths (9:35, 10 min)
 
 Put each myth on a slide and have the room vote true or false before you answer it.
 
